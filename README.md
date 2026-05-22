@@ -63,7 +63,7 @@ Not a professional, just trying things, breaking them, fixing them and learning 
 ---
 
 <div align="center">
-```py
+```python
 print("thanks for visiting")
 ```
 </div>
