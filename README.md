@@ -12,18 +12,11 @@
 
 ## About me
 
-Hi, I am droyidept.
+Hi, I am Nikita. My pseudonym/nickname droyidept.
 
 I mostly mess around with Python, Discord stuff and different small ideas that come to mind.
 
 Not a professional, just trying things, breaking them, fixing them and learning from it.
-
-```py
-name = "droyidept"
-age = 16
-main_language = "Python"
-status = "probably coding something"
-```
 
 ---
 
@@ -37,17 +30,23 @@ status = "probably coding something"
 
 ---
 
-## What I use
+## What I use:
 
 ```txt
 Python
-SQLite
+HTML/CSS
 Git
 GitHub
 VS Code
 Discord API
 ```
 
+## I Learning:
+
+```txt
+JavaScript
+C++ (C+ & C# too)
+```
 ---
 
 ## GitHub stats
