@@ -20,35 +20,6 @@ Not a professional, just trying things, breaking them, fixing them and learning 
 
 ---
 
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,discord" />
-
-</div>
-
----
-
-## What I use:
-
-```txt
-Python
-HTML/CSS
-Git
-GitHub
-VS Code
-Discord API
-```
-
-## I Learning:
-
-```txt
-JavaScript
-C++ (C+ & C# too)
-```
----
-
 ## GitHub stats
 
 <div align="center">
@@ -91,23 +62,8 @@ C++ (C+ & C# too)
 
 ---
 
-## Random
-
 <div align="center">
-
-<img src="https://media.giphy.com/mediaBs0GXj3ew6xxK/giphy.gif" width="350" alt="Better Call Saul GIF"/>
-
-</div>
-
-```txt
-Still not sure what I am doing,
-but somehow it works.
+```py
+print("thanks for visiting")
 ```
-
----
-
-<div align="center">
-
-thanks for visiting
-
 </div>
