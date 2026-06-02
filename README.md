@@ -1,6 +1,6 @@
 <div align="center">
 
-# droyidept
+# eekrob
 
 <img src="https://media.giphy.com/media/40dEau6bZRO3S/giphy.gif" width="420" alt="Saul Goodman GIF"/>
 
@@ -24,9 +24,9 @@ Not a professional, just trying things, breaking them, fixing them and learning 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=droyid95&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eekrob&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droyid95&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eekrob&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -36,7 +36,7 @@ Not a professional, just trying things, breaking them, fixing them and learning 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=droyid95&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=eekrob&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -46,7 +46,7 @@ Not a professional, just trying things, breaking them, fixing them and learning 
 
 <div align="center">
 
-<a href="https://github.com/droyid95">
+<a href="https://github.com/eekrob">
   <img src="https://img.shields.io/badge/GitHub-droyid95-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
