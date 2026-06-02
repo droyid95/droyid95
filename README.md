@@ -47,7 +47,7 @@ Not a professional, just trying things, breaking them, fixing them and learning 
 <div align="center">
 
 <a href="https://github.com/eekrob">
-  <img src="https://img.shields.io/badge/GitHub-droyid95-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-eekrob-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://t.me/qwertymoment">
