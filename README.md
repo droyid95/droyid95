@@ -12,7 +12,7 @@
 
 ## About me
 
-Hi, I am Nikita. My pseudonym/nickname droyidept.
+Hi, I am Nikita. My pseudonym/nickname eekrob.
 
 I mostly mess around with Python, Discord stuff and different small ideas that come to mind.
 
