@@ -50,8 +50,8 @@ Not a professional, just trying things, breaking them, fixing them and learning 
   <img src="https://img.shields.io/badge/GitHub-eekrob-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://t.me/qwertymoment">
-  <img src="https://img.shields.io/badge/Telegram-qwertymoment-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/termitdsan">
+  <img src="https://img.shields.io/badge/Telegram-termitdsan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/CnkpdeyVAk">
